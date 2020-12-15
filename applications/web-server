@@ -1,0 +1,14 @@
+[Web Server HTTP]
+title=Web Server (Web, HTTP)
+description=HTTP is a protocol which allows the fetching of resources
+ports=80/tcp
+
+[Web Server HTTPS]
+title=Web Server (Web, HTTPS)
+description=HTTPS is a protocol which allows the fetching of resources
+ports=443/tcp
+
+[Web Server Full]
+title=Web Server (Web, HTTP + HTTPS)
+description=A web server is a system to serve and deliver content for a client
+ports=80,443/tcp
