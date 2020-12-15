@@ -13,3 +13,4 @@ install:
 	ufw reset
 	ufw default deny incoming
 	ufw default allow outgoing
+	ufw enable
