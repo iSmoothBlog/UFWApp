@@ -1,4 +1,4 @@
 [Web Server]
-title=Web Server (Web, HTTP + HTTPS)
+title=Web server full set (Web, HTTP + HTTPS)
 description=A web server is a system to serve and deliver content for a client
 ports=80,443/tcp
