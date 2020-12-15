@@ -12,10 +12,10 @@ Exchange `*` with a selected profile:
 ```
 ufw allow "*"
 ```
-* Web Server Full
+* Web Server
 * Mail Server Submission
 * Mail Server Management
-* FTP Server Full
-* Odoo Server Full
+* FTP Server
+* Odoo Server
 ## Learn More
 Find more information about UFWApp on [iSmoothBlog](http://www.ismoothblog.com).
