@@ -1,4 +1,4 @@
-# UFW Application
+# UFWApp
 Enhance firewall with perfect application profiles.
 
 ## Enable Applications
