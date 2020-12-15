@@ -1,5 +1,5 @@
 # UFWApp
-Enhance firewall with perfect application profiles.
+Enhance firewall with typical application profiles.
 
 ## Enable Applications
 * Apache (Web Server)
