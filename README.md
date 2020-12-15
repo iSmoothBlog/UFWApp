@@ -11,7 +11,7 @@ Enhance firewall with perfect application profiles.
 * FileZilla (File Transfer)
 * Odoo (Odoo Server)
 
-And many more, any other alternative for these applications should work.
+And many more, any other alternative for these applications should apply.
 
 ## Installation
 Clone this repository into your system and install the required files:
