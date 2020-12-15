@@ -48,6 +48,7 @@ Now, you must verify **UFW** firewall status then reboot your system accordingly
 
 ```sh
 sudo ufw status
+sudo ufw allow "Secure Shell"
 sudo reboot
 ```
 
