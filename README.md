@@ -34,5 +34,7 @@ ufw allow "*"
 * FTP Server
 * Odoo Server
 
+A profile selected should work for all apllications in the same field.
+
 ## Learn More
 Find more information about UFWApp on [iSmoothBlog](http://www.ismoothblog.com).
