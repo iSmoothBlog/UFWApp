@@ -23,16 +23,16 @@ sudo make install
 ## Usage
 Exchange `*` with a selected profile:
 
-```
-ufw allow "*"
-```
-
 * Web Server
 * SSH Server
 * Mail Server Submission
 * Mail Server Management
 * FTP Server
 * Odoo Server
+
+```
+ufw allow "*"
+```
 
 A profile selected should work for all applications in the same field.
 
