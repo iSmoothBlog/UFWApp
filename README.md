@@ -3,6 +3,7 @@ Enhance firewall with perfect application profiles.
 ## Enabled Application Examples
 * Apache (Web Server)
 * NGINX (Web Server)
+* OpenSSH (SSH Server)
 * Dovecot (Mail Server Management)
 * Postfix (Mail Server Submission)
 * Odoo ERP (Odoo Server)
@@ -19,6 +20,7 @@ Exchange `*` with a selected profile:
 ufw allow "*"
 ```
 * Web Server
+* SSH Server
 * Mail Server Submission
 * Mail Server Management
 * FTP Server
