@@ -4,7 +4,7 @@ Enhance your UFW Firewall with perfect application profiles.
 Clone this repository into your system and install the required files:
 ```
 git clone https://github.com/iSmoothBlog/UFWApp.git
-cd JekySimple
+cd UFWApp
 sudo make install
 ```
 ## Usage
