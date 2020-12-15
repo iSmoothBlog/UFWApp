@@ -1,4 +1,4 @@
-# UFWApp
+# UFWApp Library
 Enhance firewall with typical application profiles.
 
 ## Enable Applications
