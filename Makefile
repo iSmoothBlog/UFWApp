@@ -1,6 +1,6 @@
 install:
-	mkdir -p /etc/ufw/applications.d/original
-	mv /etc/ufw/applications.d/* /etc/ufw/applications.d/original
+	mkdir -p /etc/ufw/applications.d/backup
+	mv /etc/ufw/applications.d/* /etc/ufw/applications.d/backup
 
 	install applications/web-server /etc/ufw/applications.d
 	install applications/secure-shell /etc/ufw/applications.d
