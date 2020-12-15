@@ -22,7 +22,7 @@ cd UFWApp
 sudo make install
 ```
 
-You will find old profiles backed up in `/etc/ufw/applications.d/backup` after installation.
+You will find a backup for old profiles in `/etc/ufw/applications.d/backup` after installation.
 
 >**Note:** This will swap profiles configured on your system to be replaced with **UFWApp** implementation instead.
 
