@@ -13,7 +13,7 @@ title=Mail server (Mail, MSA)
 description=MSA is a submission protocol for mail server routing
 ports=587/tcp
 
-[Mail Submission Full]
+[Mail Server Submission]
 title=Mail server submission full set (Mail, SMTP + SMTPS + MSA)
 description=A mail server submission system to submit and send e-mail messages
 ports=25,465,587/tcp
