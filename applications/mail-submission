@@ -1,0 +1,19 @@
+[Mail Server SMTP]
+title=Mail server (Mail, SMTP)
+description=SMTP is a communication protocol for electronic mail transmission
+ports=25/tcp
+
+[Mail Server SMTPS]
+title=Mail server (Mail, SMTPS)
+description=SMTPS is a secure communication protocol for electronic mail transmission 
+ports=465/tcp
+
+[Mail Server MSA]
+title=Mail server (Mail, MSA)
+description=MSA is a submission protocol for mail server routing
+ports=587/tcp
+
+[Mail Submission Full]
+title=Mail server submission full set (Mail, SMTP + SMTPS + MSA)
+description=A mail server submission system to submit and send e-mail messages
+ports=25,465,587/tcp
