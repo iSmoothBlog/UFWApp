@@ -1,6 +1,6 @@
 install:
 	mkdir -p /etc/ufw/applications.d/original
-	mv /etc/ufw/applications.d/* /etc/ufw/applications.d/originalufw default allow outgoing
+	mv /etc/ufw/applications.d/* /etc/ufw/applications.d/original
 	ufw reset
 	ufw default allow outgoing
 	ufw default deny incoming
