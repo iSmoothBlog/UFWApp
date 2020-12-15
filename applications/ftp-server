@@ -1,24 +1,4 @@
-[FTP Server Request]
-title=FTP server (FTP, Request)
-description=Connect with client 
-ports=20/tcp
-
-[FTP Server Control]
-title=FTP server (FTP, Control)
-description=Control and transfer data
-ports=21/tcp
-
-[FTP Server Passive]
-title=FTP server (FTP, Passive)
-description=Connect with passive sessions
-ports=40000:50000/tcp
-
-[FTP Server Secure]
-title=FTP server (FTP, Secure)
-description=Connect with secure sessions
-ports=990/tcp
-
-[FTP Server Full]
+[FTP Server]
 title=FTP server full set (FTP, Request + Control + Passive + Secure)
 description=FTP Server is a system to transfer data with a client
 ports=20,21,40000:50000,990/tcp
