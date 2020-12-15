@@ -40,7 +40,7 @@ Exchange `*` with a selected profile:
 sudo ufw allow "*"
 ```
 
-Once satisfied you must enable **UFW** firewall with `sudo ufw enable` accordingly.
+Once satisfied you can verify **UFW** firewall status with `sudo ufw status` accordingly.
 
 >**Note:** A profile selected will work for all applications in the same field.
 
