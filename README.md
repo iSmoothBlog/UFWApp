@@ -23,7 +23,7 @@ sudo make install
 ```
 **Note:**
 
-This will wipe all profiles configured on your system to be replaced with UFWApp implementation.
+>This will wipe all profiles configured on your system to be replaced with UFWApp implementation.
 
 ## Usage
 Exchange `*` with a selected profile:
