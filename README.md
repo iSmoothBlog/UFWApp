@@ -7,6 +7,7 @@ Enhance firewall with perfect application profiles.
 * Dovecot (Mail Server Management)
 * Postfix (Mail Server Submission)
 * Odoo ERP (Odoo Server)
+And many more, any other alternative for these applications should work.
 ## Installation
 Clone this repository into your system and install the required files:
 ```
