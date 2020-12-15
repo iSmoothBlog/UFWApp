@@ -1,4 +1,4 @@
-[Odoo ERP]
+[Odoo Server]
 title=Odoo server full set (Odoo, HTTP + Long Polling)
 description=A comprehensive suite of business applications
 ports=8069,8072/tcp
