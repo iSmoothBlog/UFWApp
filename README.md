@@ -21,6 +21,7 @@ git clone https://github.com/iSmoothBlog/UFWApp.git
 cd UFWApp
 sudo make install
 ```
+**Note:** This will wipe all profiles previously configured on your system to be replaced with UFWApp implementation.
 
 ## Usage
 Exchange `*` with a selected profile:
