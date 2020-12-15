@@ -40,7 +40,7 @@ Exchange `*` with a selected profile:
 sudo ufw allow "*"
 ```
 
-A profile selected should work for all applications in the same field.
+A profile selected will work for all applications in the same field.
 
 ## Learn More
 Find more information about UFWApp on [iSmoothBlog](http://www.ismoothblog.com).
