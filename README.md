@@ -37,7 +37,7 @@ Exchange `*` with a selected profile:
 * Odoo Server
 
 ```
-ufw allow "*"
+sudo ufw allow "*"
 ```
 
 A profile selected should work for all applications in the same field.
