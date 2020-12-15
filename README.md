@@ -1,6 +1,6 @@
 # UFW Application Profiles
 Enhance firewall with perfect application profiles.
-## Enabled Application Examples
+## Fully Enabled Applications
 * Apache (Web Server)
 * NGINX (Web Server)
 * OpenSSH (SSH Server)
