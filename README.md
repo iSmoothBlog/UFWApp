@@ -18,4 +18,4 @@ ufw allow "*"
 * FTP Server
 * Odoo Server
 ## Learn More
-Find more information and guides about UFWApp on [iSmoothBlog](http://www.ismoothblog.com/search/label/JekySimple?&max-results=5).
+Find more information about UFWApp on [iSmoothBlog](http://www.ismoothblog.com/search/label/JekySimple?&max-results=5).
