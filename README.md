@@ -7,7 +7,7 @@ Enhance firewall with perfect application profiles.
 * OpenSSH (Secure Shell)
 * Dovecot (Mail Management)
 * Postfix (Mail Submission)
-* OdooERP (Odoo Server)
+* Odoo (Odoo Server)
 
 And many more, any other alternative for these applications should work.
 
