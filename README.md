@@ -40,9 +40,14 @@ Exchange `*` with a selected profile:
 sudo ufw allow "*"
 ```
 
-Once satisfied you can verify **UFW** firewall status with `sudo ufw status` accordingly.
+Once satisfied you must verify **UFW** firewall status then reboot your system accordingly.
 
 >**Note:** A profile selected will work for all applications in the same field.
+
+```sh
+sudo ufw status
+sudo reboot
+```
 
 ## Learn More
 Find more information about **UFWApp** on [iSmoothBlog](http://www.ismoothblog.com).
