@@ -34,7 +34,7 @@ sudo ufw app list
 sudo ufw allow "*"
 ```
 
-Continue allowing applications until you are satisfied.
+Continue setting allow rules until you are satisfied.
 
 >**Note:** A profile selected will work for all applications in the same field.
 
