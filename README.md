@@ -13,8 +13,8 @@ Exchange `*` with a selected profile:
 ufw allow "*"
 ```
 * Web Server Full
-* Mail Submission Full
-* Mail Management Full
+* Mail Server Submission
+* Mail Server Management
 * FTP Server Full
 * Odoo Server Full
 ## Learn More
