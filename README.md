@@ -45,4 +45,4 @@ Once satisfied you can verify **UFW** firewall status with `sudo ufw status` acc
 >**Note:** A profile selected will work for all applications in the same field.
 
 ## Learn More
-Find more information about UFWApp on [iSmoothBlog](http://www.ismoothblog.com).
+Find more information about **UFWApp** on [iSmoothBlog](http://www.ismoothblog.com).
