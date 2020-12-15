@@ -22,6 +22,7 @@ cd UFWApp
 sudo make install
 ```
 **Note:**
+
 This will wipe all profiles configured on your system to be replaced with UFWApp implementation.
 
 ## Usage
