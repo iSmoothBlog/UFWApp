@@ -1,5 +1,5 @@
 # UFW Application Profiles
-Enhance your UFW Firewall with perfect application profiles.
+Enhance firewall with perfect application profiles.
 ## Installation
 Clone this repository into your system and install the required files:
 ```
