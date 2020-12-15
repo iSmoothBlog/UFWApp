@@ -40,9 +40,11 @@ Exchange `*` with a selected profile:
 sudo ufw allow "*"
 ```
 
-Once satisfied you must verify **UFW** firewall status then reboot your system accordingly.
+Continue allowing applications until you are satisfied.
 
 >**Note:** A profile selected will work for all applications in the same field.
+
+Now, you must verify **UFW** firewall status then reboot your system accordingly.
 
 ```sh
 sudo ufw status
