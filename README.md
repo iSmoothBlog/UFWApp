@@ -16,7 +16,7 @@ And many more, any other alternative for these applications should work.
 ## Installation
 Clone this repository into your system and install the required files:
 
-```
+```sh
 git clone https://github.com/iSmoothBlog/UFWApp.git
 cd UFWApp
 sudo make install
@@ -25,7 +25,7 @@ sudo make install
 
 >This will swap profiles configured on your system to be replaced with **UFWApp** implementation instead.
 
-You will find old profiles backed up in '/etc/ufw/applications.d/backup' after installation.
+You will find old profiles backed up in ==/etc/ufw/applications.d/backup== after installation.
 
 ## Usage
 Exchange `*` with a selected profile:
