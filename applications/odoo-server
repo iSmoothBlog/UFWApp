@@ -1,0 +1,14 @@
+[Odoo Server]
+title=Odoo server (Odoo, HTTP)
+description=A comprehensive suite of business applications
+ports=8069/tcp
+
+[Odoo Long Polling]
+title=Odoo server support for HTTP long polling (Odoo, Long Polling)
+description=A comprehensive suite of business applications
+ports=8072/tcp
+
+[Odoo Server Full]
+title=Odoo server full set (Odoo, HTTP + Long Polling)
+description=A comprehensive suite of business applications
+ports=8069,8072/tcp
