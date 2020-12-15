@@ -1,4 +1,4 @@
-[SSH Server]
+[Secure Shell]
 title=SSH server (SSH, Secure Shell)
 description=Enable SSH server with Secure Shell protocol
 ports=22/tcp
