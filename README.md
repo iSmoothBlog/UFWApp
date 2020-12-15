@@ -49,5 +49,7 @@ sudo ufw status
 sudo reboot
 ```
 
+Enjoy!
+
 ## Learn More
 Find more information about **UFWApp** on [iSmoothBlog](http://www.ismoothblog.com).
