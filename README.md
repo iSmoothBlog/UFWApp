@@ -5,8 +5,10 @@ Enhance firewall with perfect application profiles.
 * Apache (Web Server)
 * NGINX (Web Server)
 * OpenSSH (Secure Shell)
-* Dovecot (Mail Management)
 * Postfix (Mail Submission)
+* Dovecot (Mail Management)
+* VSFTPD (File Transfer)
+* FileZilla (File Transfer)
 * Odoo (Odoo Server)
 
 And many more, any other alternative for these applications should work.
