@@ -27,16 +27,10 @@ You will find a backup for old profiles in `/etc/ufw/backup` after installation.
 >**Note:** This will swap profiles configured on your system to be replaced with **UFWApp** implementation instead.
 
 ## Usage
-Exchange `*` with a selected profile:
-
-* Web Server
-* Secure Shell
-* Mail Submission
-* Mail Management
-* File Transfer
-* Odoo Server
+Once install, you can list all applications then exchange `*` with a selected profile:
 
 ```sh
+sudo ufw app list
 sudo ufw allow "*"
 ```
 
