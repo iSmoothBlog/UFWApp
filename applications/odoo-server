@@ -1,4 +1,4 @@
 [Odoo Server]
 title=Odoo server full set (Odoo, HTTP + Long Polling)
-description=A comprehensive suite of business applications
+description=A comprehensive suite of business applications served on web
 ports=8069,8072/tcp
