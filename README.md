@@ -27,7 +27,7 @@ You will find a backup for old profiles in `/etc/ufw/backup` after installation.
 >**Note:** This will swap profiles configured on your system to be replaced with **UFWApp** implementation instead.
 
 ## Usage
-Once install, you can list all applications then exchange `*` with a selected profile:
+Once installed, proceed to list all applications then exchange `*` with a selected profile:
 
 ```sh
 sudo ufw app list
