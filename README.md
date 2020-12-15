@@ -36,7 +36,7 @@ Exchange `*` with a selected profile:
 * File Transfer
 * Odoo Server
 
-```
+```sh
 sudo ufw allow "*"
 ```
 
