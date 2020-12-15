@@ -1,4 +1,4 @@
-# UFW Application Profiles
+# UFW Application
 Enhance firewall with perfect application profiles.
 ## Fully Enabled Applications
 * Apache (Web Server)
