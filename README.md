@@ -40,7 +40,9 @@ Exchange `*` with a selected profile:
 sudo ufw allow "*"
 ```
 
-A profile selected will work for all applications in the same field.
+Once you are satisfied you must enable UFW firewall back with `ufw enable` accordingly.
+
+>**Note:** A profile selected will work for all applications in the same field.
 
 ## Learn More
 Find more information about UFWApp on [iSmoothBlog](http://www.ismoothblog.com).
