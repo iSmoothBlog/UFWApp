@@ -18,7 +18,7 @@ title=Mail server (Mail, POP3S)
 description=POP3S is a secure protocol in which e-mail messages are received and held
 ports=995/tcp
 
-[Mail Management Full]
+[Mail Server Management]
 title=Mail server management full set (Mail, IMAP + IMAPS + POP3 + POP3S)
 description=A mail server management system to control and receive e-mail messages
 ports=143,993,110,995/tcp
