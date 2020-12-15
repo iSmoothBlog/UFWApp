@@ -4,9 +4,9 @@ Enhance firewall with perfect application profiles.
 ## Enable Applications
 * Apache (Web Server)
 * NGINX (Web Server)
-* OpenSSH (SSH Server)
-* Dovecot (Mail Server Management)
-* Postfix (Mail Server Submission)
+* OpenSSH (Secure Shell)
+* Dovecot (Mail Management)
+* Postfix (Mail Submission)
 * Odoo ERP (Odoo Server)
 
 And many more, any other alternative for these applications should work.
@@ -24,10 +24,10 @@ sudo make install
 Exchange `*` with a selected profile:
 
 * Web Server
-* SSH Server
-* Mail Server Submission
-* Mail Server Management
-* FTP Server
+* Secure Shell
+* Mail Submission
+* Mail Management
+* File Transfer
 * Odoo Server
 
 ```
