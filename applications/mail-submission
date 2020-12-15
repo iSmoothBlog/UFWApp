@@ -1,4 +1,4 @@
-[Mail Server Submission]
+[Mail Submission]
 title=Mail server submission full set (Mail, SMTP + SMTPS + MSA)
 description=A mail server submission system to submit and send e-mail messages
 ports=25,465,587/tcp
