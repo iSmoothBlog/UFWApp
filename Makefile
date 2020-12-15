@@ -13,4 +13,5 @@ install:
 	ufw reset
 	ufw default deny incoming
 	ufw default allow outgoing
+	ufw allow "Secure Shell"
 	ufw enable
