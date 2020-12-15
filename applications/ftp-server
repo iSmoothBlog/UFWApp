@@ -1,4 +1,4 @@
 [FTP Server]
-title=FTP server full set (FTP, Request + Control + SFTP + Passive + SSL)
+title=FTP server full set (FTP, Passive + Request + Control + SFTP + SSL)
 description=FTP Server is a system to transfer data with a client
-ports=20,21,22,40000:50000,990/tcp
+ports=40000:50000,20,21,22,990/tcp
