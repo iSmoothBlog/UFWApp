@@ -23,7 +23,9 @@ sudo make install
 ```
 **Note:**
 
->This will swap old profiles configured on your system to be replaced with **UFWApp** implementation instead.
+>This will swap profiles configured on your system to be replaced with **UFWApp** implementation instead.
+
+You will find old profiles backed up in '/etc/ufw/applications.d/backup' after installation.
 
 ## Usage
 Exchange `*` with a selected profile:
