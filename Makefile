@@ -1,7 +1,7 @@
 install:
-	rm -rf /etc/ufw/applications.d/backup
-	mkdir -p /etc/ufw/applications.d/backup
-	mv /etc/ufw/applications.d/* /etc/ufw/applications.d/backup
+	rm -rf /etc/ufw/backup
+	mkdir -p /etc/ufw/backup
+	mv /etc/ufw/applications.d/* /etc/ufw/backup
 
 	install applications/web-server /etc/ufw/applications.d
 	install applications/secure-shell /etc/ufw/applications.d
