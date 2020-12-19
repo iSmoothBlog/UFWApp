@@ -1,5 +1,5 @@
 # UFWApp Library
-Enhance firewall with typical application profiles.
+Enhance UFW firewall with typical application profiles.
 
 ## Enable Applications
 * Apache (Web Server)
