@@ -24,7 +24,7 @@ sudo make install
 
 You will find a backup for old profiles in `/etc/ufw/backup` after installation.
 
->**Note:** This will swap profiles configured on your system to be replaced with **UFWApp** implementation instead.
+>**Note:** This will swap messy profiles configured on your system to be replaced with **UFWApp** implementation instead.
 
 ## Usage
 Once installed, proceed to list all applications then exchange `*` with a selected profile:
