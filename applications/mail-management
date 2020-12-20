@@ -1,4 +1,4 @@
 [Mail Management]
-title=Mail server management full set (Mail, IMAP + IMAPS + POP3 + POP3S)
+title=Mail server management full set (Mail, IMAP + IMAPS + POP3 + POP3S + ManageSieve)
 description=A mail server for management is a system to control and receive e-mail messages
-ports=143,993,110,995/tcp
+ports=143,993,110,995,4190/tcp
