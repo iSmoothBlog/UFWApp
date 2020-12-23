@@ -10,6 +10,7 @@ Enhance UFW firewall with typical application profiles.
 * VSFTPD (File Transfer)
 * FileZilla (File Transfer)
 * Odoo (Odoo Server)
+* Jekyll (Jekyll Server)
 
 And many more, any other alternative for these applications should apply.
 
