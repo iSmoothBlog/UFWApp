@@ -9,6 +9,7 @@ install:
 	install applications/mail-management /etc/ufw/applications.d
 	install applications/file-transfer /etc/ufw/applications.d
 	install applications/odoo-server /etc/ufw/applications.d
+	install applications/jekyll-server /etc/ufw/applications.d
 
 	ufw reset
 	ufw default deny incoming
