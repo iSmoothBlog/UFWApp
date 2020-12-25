@@ -35,9 +35,7 @@ sudo ufw app list
 sudo ufw allow "*"
 ```
 
-Continue setting allow rules until you are satisfied.
-
->**Note:** A profile selected will work for all applications in the same field.
+A profile selected will work for all applications in the same field. So, continue setting allow rules until you are satisfied.
 
 Now, you must verify **UFW** firewall status then reboot your system accordingly.
 
